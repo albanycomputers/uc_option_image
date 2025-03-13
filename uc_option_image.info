@@ -1,4 +1,4 @@
-name = Option Images
+name = Ubercart Option Images
 description = Allows users to upload images per attribute option.
 dependencies[] = ubercart
 package = Ubercart - extra
